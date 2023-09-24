@@ -7,6 +7,6 @@
     "versionFormat" : "%versionName% or %versionCode%",
     // 更新链接，优先级高于本地
     "updateURL" : {
-        "en_us" : "https://gitee.com/yuan-sirui/createversioncheck/blob/master/ver.json"
+        "en_us" : "https://github.com/YuanSirui/createserver/blob/master/ver.json"
     }
 }
