@@ -1,0 +1,827 @@
+{
+  "name": "机械动力",
+  "author": "yuan",
+  "version": "1.2.2",
+  "description": "",
+  "fileApi": "https://gitee.com/yuan-sirui/createversioncheck/raw/master",
+  "files": [
+    {
+      "path": "mods/[旅行地图] journeymap-1.19.2-5.9.7-fabric.jar",
+      "hash": "bc90457ed5e87c46209b6192b7f71f71ecfbc407"
+    },
+    {
+      "path": "mods/[农夫乐事] farmers-delight-fabric-1.19.2-1.3.10.jar",
+      "hash": "e332b0b0324581a63d2ce4866bbca80258d67f15"
+    },
+    {
+      "path": "mods/[实体渲染机制优化] entityculling-fabric-1.6.1-mc1.19.2.jar",
+      "hash": "534d7dc7a3f241300e09e7e95d3ae5d4ee5be886"
+    },
+    {
+      "path": "mods/[汤姆的简易存储] toms_storage_fabric-1.19-1.5.9.jar",
+      "hash": "4cfbbf31a871bc03958c8bbc9b892f9110757ab4"
+    },
+    {
+      "path": "mods/[库] moonlight-1.19.2-2.2.43-fabric.jar",
+      "hash": "955da23df4ffbf53d8812292f42775f33a77792c"
+    },
+    {
+      "path": "mods/polylib-fabric-1900.0.2-build.73.jar",
+      "hash": "59d16b3ae60929e64c2fb45c74622e39b9c239c4"
+    },
+    {
+      "path": "mods/[机械动力] create-fabric-0.5.1-b-build.1089+mc1.19.2.jar",
+      "hash": "32e7620588a82e6465c6176833d6735d2e3a4a4c"
+    },
+    {
+      "path": "mods/[简单的语音聊天] voicechat-fabric-1.19.2-2.4.18.jar",
+      "hash": "a777e3a93edad2691f156e7b352eb122d009befb"
+    },
+    {
+      "path": "mods/[万用皮肤补丁] CustomSkinLoader_Fabric-14.17.jar",
+      "hash": "82b2c1b0d0fdb23fcb34ebe89ce157cb99e9874f"
+    },
+    {
+      "path": "mods/[桶滚] do-a-barrel-roll-2.6.2+1.19.2-fabric.jar",
+      "hash": "602c778f113e0d103756671d9f5a517b8c782220"
+    },
+    {
+      "path": "mods/[JER拓展] JustEnoughResources-Fabric-1.19.2-1.2.2.236.jar",
+      "hash": "3953b0e653ead8bcb90b7345f70a975422dc0170"
+    },
+    {
+      "path": "mods/[JEI物品管理器] jei-1.19.2-fabric-11.6.0.1016.jar",
+      "hash": "d85c7f84bb4305685c260e6b365ca13a11d6c42a"
+    },
+    {
+      "path": "mods/[苹果皮] appleskin-fabric-mc1.19-2.4.1.jar",
+      "hash": "7bd52695e82b1ddd1fdb3320154b68bf48dfff37"
+    },
+    {
+      "path": "mods/[键位冲突显示] Controlling-fabric-1.19.2-10.0+7.jar",
+      "hash": "73b4c80d6d834a10fce677cd205d4eabe9c6d8a0"
+    },
+    {
+      "path": "mods/[模组菜单] modmenu-4.2.0-beta.2.jar",
+      "hash": "6e627ee1b31f5be89e14c85e888f47463d8da9c2"
+    },
+    {
+      "path": "mods/[更好的末地] better-end-2.1.6.jar",
+      "hash": "c4df03477ca5df28a0822e6aeff73efd8fccd50a"
+    },
+    {
+      "path": "mods/[库] cloth-config-8.3.103-fabric.jar",
+      "hash": "475ab5dec26fa5d25b1d899b8261b054fbc283d6"
+    },
+    {
+      "path": "mods/[传送石碑／指路石] waystones-fabric-1.19.2-11.4.1.jar",
+      "hash": "c167769eac3dab755fa964137037f7ce062fbcd8"
+    },
+    {
+      "path": "mods/[沉浸式盔甲] immersive_armors-1.5.6+1.19.2-fabric.jar",
+      "hash": "bd796076c6195edc1ce1dc73844fb8f8ca60cf04"
+    },
+    {
+      "path": "mods/[禁止踩踏] securecrops-1.0.4+1.19-1.19.3.jar",
+      "hash": "9a3c2747f5610adb8f9bdc5815becdb04a7d82e0"
+    },
+    {
+      "path": "mods/[高级运行时资源包] arrp-0.6.4.jar",
+      "hash": "d18e0e8fd5373b60eed33094d1b511da29368248"
+    },
+    {
+      "path": "mods/[动作优化] player-animation-lib-fabric-1.0.2.jar",
+      "hash": "4b9341b70949bb285f05106cf3c8550e2b07ec31"
+    },
+    {
+      "path": "mods/[更好的战斗动画] bettercombat-fabric-1.7.1+1.19.jar",
+      "hash": "6878828edb500e1a1b77fe8607510a25e85b788e"
+    },
+    {
+      "path": "mods/[通用拼音搜索] jecharacters-fabric-1.19.2-4.4.0.jar",
+      "hash": "b60acd9c953eea5a1bb615390f6dcad65164ff80"
+    },
+    {
+      "path": "mods/[应用能源2] appliedenergistics2-fabric-12.9.6.jar",
+      "hash": "d5ece23b783ba8df0ff832b3e6dd23375148aad4"
+    },
+    {
+      "path": "mods/[电脑] cc-restitched-1.101.2.jar",
+      "hash": "428b306c317e38d5829972f1944c873858b740da"
+    },
+    {
+      "path": "mods/[库] ftb-library-fabric-1902.4.1-build.236.jar",
+      "hash": "2c24b2d94855c2fdd4b9268c625a9121fed017c2"
+    },
+    {
+      "path": "mods/[沉浸画框] immersive_paintings-0.6.5+1.19.2-fabric.jar",
+      "hash": "d4bacb173ad00c2246e778518d66607a4e5230da"
+    },
+    {
+      "path": "mods/[钠] sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
+      "hash": "227648dc4f6a8604bafc282612a6de47eff70cd8"
+    },
+    {
+      "path": "mods/[光影加载] iris-mc1.19.2-1.6.5.jar",
+      "hash": "db6208dd11c180e4680a87017938fbdb16f4ef3b"
+    },
+    {
+      "path": "mods/[机械动力：汽鸣铁道] Steam_Rails-1.4.3+fabric-mc1.19.2.jar",
+      "hash": "8a9f2116f4a610ed5810f01509d8c1a7847c6f1f"
+    },
+    {
+      "path": "mods/[库] collective-1.19.2-6.65.jar",
+      "hash": "c082347e764697d7972b81a3fade8bf43aa69553"
+    },
+    {
+      "path": "mods/[机械动力：矿石开掘] createoreexcavation-fabric-1.19-1.2.1.jar",
+      "hash": "e1eb5aff0616c6435edc802703372a050029e2af"
+    },
+    {
+      "path": "mods/[Macaw的门] mcw-doors-1.1.0fabric-mc1.19.2.jar",
+      "hash": "99bd58013153f4eefdbe2b92b735e495f15f03fd"
+    },
+    {
+      "path": "mods/[鞘翅插槽] trinkets-3.4.2.jar",
+      "hash": "83deb9f7ab28737a5d27a57e49fe105e9053804c"
+    },
+    {
+      "path": "mods/[铟] indium-1.0.9+mc1.19.2.jar",
+      "hash": "a74ab16af990cf55dd1a3b5c76eadfc9ca25e25e"
+    },
+    {
+      "path": "mods/[锦致装饰] supplementaries-1.19.2-2.3.20-fabric.jar",
+      "hash": "9a4e3ddd0ef49fd65c2bbdd0def81eca45e920cf"
+    },
+    {
+      "path": "mods/[库][动画引擎] geckolib-fabric-1.19-3.1.40.jar",
+      "hash": "dab6fa804356b1599ce60601213530bcc5732cbc"
+    },
+    {
+      "path": "mods/[BetterPVP] BetterPvP_23.6.1_Fabric_1.19.1.jar",
+      "hash": "d38822b52431e97c7ff43d28ebea7a3797b17785"
+    },
+    {
+      "path": "mods/[中世纪武器] medievalweapons-1.4.5.jar",
+      "hash": "2eefd49304f87772cc0df6c62a7f69132d318b2b"
+    },
+    {
+      "path": "mods/[库] fabric-api-0.76.0+1.19.2.jar",
+      "hash": "f29a349b29324338ebe3acaa2914637008be15f4"
+    },
+    {
+      "path": "mods/[机械动力拓展] createaddition-fabric+1.19.2-20230723a.jar",
+      "hash": "9f69e9ffb80b479df765102528ff917f91670c90"
+    },
+    {
+      "path": "mods/[库] bclib-2.1.7.jar",
+      "hash": "eb3e73541598d74504178556f20b61d278092809"
+    },
+    {
+      "path": "mods/[库] balm-fabric-1.19.2-4.5.7.jar",
+      "hash": "0ee92ca2faa297d266bd2ea90b377e5958da6b1f"
+    },
+    {
+      "path": "mods/[库] architectury-6.5.85-fabric.jar",
+      "hash": "5795f772ea4a72049e38848eac80a005b01211d9"
+    },
+    {
+      "path": "mods/[一键背包整理Next] InventoryProfilesNext-fabric-1.19-1.9.4.jar",
+      "hash": "88c320279090d575bf7ea32f4c8618b1929fc170"
+    },
+    {
+      "path": "mods/[库] libIPN-fabric-1.19-2.0.7.jar",
+      "hash": "7b69e3d855e6f6a2ed257a16f1db80db3b406efd"
+    },
+    {
+      "path": "mods/[库] badpackets-fabric-0.2.1.jar",
+      "hash": "17438ba70d88752f73d814405927450c81d035b9"
+    },
+    {
+      "path": "mods/[WTHIT信息显示]wthit-fabric-5.19.0.jar",
+      "hash": "657d6557e83dc8b695aa1a614841be380ddc9ca8"
+    },
+    {
+      "path": "mods/[库] kotlinforforge-3.12.0-all.jar",
+      "hash": "cf09c1be6d8950e3f7551f02f141818aee5a3ec0"
+    },
+    {
+      "path": "mods/[我能挖它吗] can-i-mine-this-block-1.3.0.jar",
+      "hash": "2760efa6e5f4af0718e487fb7fe91e43ea8fa7e1"
+    },
+    {
+      "path": "mods/[墓碑] gravestones-v1.13.jar",
+      "hash": "2a204ce3422325f27f3b14f6970418c322af3229"
+    },
+    {
+      "path": "mods/[无中生有] wraith-fabricaeexnihilo-0.1.11+mc1.19.2.jar",
+      "hash": "2411340399beb9bf2222f1dc9dcf1f8f6e03853a"
+    },
+    {
+      "path": "mods/[动物喂养槽] animal_feeding_trough-1.0.3+1.19.2.jar",
+      "hash": "d88dcb374fd5a362dd4acd596b9128b69bd44500"
+    },
+    {
+      "path": "mods/[Macaw的窗户] mcw-windows-2.1.2-mc1.19.2fabric.jar",
+      "hash": "ee398cf242c1a3db171b6f913b0d4ed1caad3ea1"
+    },
+    {
+      "path": "mods/[连锁破坏] ftb-ultimine-fabric-1902.4.1-build.90.jar",
+      "hash": "689c7464ed2234ffed9eee3fc720cecfb391b5c6"
+    },
+    {
+      "path": "mods/[Macaw的桥梁] mcw-bridges-2.1.0-mc1.19.2fabric.jar",
+      "hash": "da35944625c9a545c57a75c805c03501c655fa50"
+    },
+    {
+      "path": "mods/[Macaw的栅栏与墙] mcw-fences-1.0.7-mc1.19.2fabric.jar",
+      "hash": "22bf553df17ba1eda26bc2e8250de346e26e722c"
+    },
+    {
+      "path": "mods/[Macaw的家具] mcw-furniture-3.1.1-mc1.19.2fabric.jar",
+      "hash": "a4a572c795b0d58cf88375c313057610a25e9979"
+    },
+    {
+      "path": "mods/[地牢浮现之时] DungeonsArise-1.19.2-2.1.56-fabric-beta.jar",
+      "hash": "e97f8da8f28d9201bc2352212c52008f37bb9e57"
+    },
+    {
+      "path": "mods/[更好的下界] better-nether-7.1.4.jar",
+      "hash": "c4e29c470695096939f64c1f0e3d0e3e817b8d71"
+    },
+    {
+      "path": "mods/[输入法冲突修复] imblockerfabric-1.0.24.jar",
+      "hash": "f5abb2ba23df3cda0429ce816588b3483b9d14e5"
+    },
+    {
+      "path": "mods/[手柄控制] midnightcontrols-1.7.4+1.19.jar",
+      "hash": "fc2ffef4d69cdd7e50de4891648003364133117c"
+    },
+    {
+      "path": "mods/[快速收获] harvestwithease-1.19.2-6.0.1.4-final-fabric.jar",
+      "hash": "5c995d746f08c764dd11e56dead81d82b9e099d0"
+    },
+    {
+      "path": "mods/[库] ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric.jar",
+      "hash": "00d05a6d57ee557ab216de5527e1434e3cf50c24"
+    },
+    {
+      "path": "mods/[形状拓展] extshape-fabric-2.0.3-mc1.19.2.jar",
+      "hash": "92e93997cdc1077b90feb84f94009492a21de6ae"
+    },
+    {
+      "path": "mods/[库] brrp-fabric-1.0.1-1.19.2.jar",
+      "hash": "d68f3e4c477ef69a303ce4fadc36fe40b665708f"
+    },
+    {
+      "path": "mods/[自动重连] autoreconnect-2.1.0-beta.jar",
+      "hash": "57de589fcb14ddf91cb682f2213c3aa750836cee"
+    },
+    {
+      "path": "mods/[农夫乐事配方书] recipe-book-delight-0.2.0-1.19.2.jar",
+      "hash": "1f2a50d82fe6553e19f4de40aa8b42f5183e619b"
+    },
+    {
+      "path": "mods/[聊天头像] chat_heads-0.10.21-fabric-1.19.2.jar",
+      "hash": "b8c69fa0cde77efeb69b018fe89dad4253ff9d86"
+    },
+    {
+      "path": "mods/[整合包更新检查工具] upd8r-1.19.2-1.1.0-fabric.jar",
+      "hash": "347195dfbe052c2e5e366e7f13722f9bbb85952b"
+    },
+    {
+      "path": "mods/[库] fabric-language-kotlin-1.10.10+kotlin.1.9.10.jar",
+      "hash": "c708f3f4e94f0f66e72c6e96858368f0512c3b38"
+    },
+    {
+      "path": "mods/fpsdisplay-3.1.0+1.19.2.jar",
+      "hash": "6f6dbd3e7bedd76b049aa20057bf3830787e4e62"
+    },
+    {
+      "path": "mods/fancymenu_fabric_2.14.9_MC_1.19-1.19.2.jar",
+      "hash": "155d6ba930b65e5baaf87c0c4e507656b23a46d7"
+    },
+    {
+      "path": "mods/[库] midnightlib-fabric-1.0.0.jar",
+      "hash": "a4d7c5f2f191e7e0fc2b272116212ac8134652bf"
+    },
+    {
+      "path": "mods/[库] konkrete_fabric_1.6.1_MC_1.19.1-1.19.2.jar",
+      "hash": "fb12af8874a9ea41899321f914ee1cd817603881"
+    },
+    {
+      "path": "options.txt",
+      "hash": "085343cc2ec50b4167e80961ccddade649ef28d2"
+    },
+    {
+      "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip",
+      "hash": "4311412ccfaba30c2365a3532290c6926fea76a7"
+    },
+    {
+      "path": "config/betternether/main.json",
+      "hash": "7e5706ea7b68d97f8cdf51d832799f4338ab2c4a"
+    },
+    {
+      "path": "config/betternether/generator.json",
+      "hash": "f003240a594b15ddbce54d6dc2f9f20e73ac8dea"
+    },
+    {
+      "path": "config/betternether/blocks.json",
+      "hash": "1b910ff0a3236050f391e3514045841d63a70c12"
+    },
+    {
+      "path": "config/betternether/items.json",
+      "hash": "59e03dae4c82e07293fa1d48b7433ded94fca2f9"
+    },
+    {
+      "path": "config/betternether/mobs.json",
+      "hash": "40ed7eb0caf017ae3a7f9d08c7c77253b7d57881"
+    },
+    {
+      "path": "config/betternether/recipes.json",
+      "hash": "cb35af7663655d1c0a4a7b0b9a15fdefb066597a"
+    },
+    {
+      "path": "config/betternether/biomes.json",
+      "hash": "43054f1d3b280811ca7a9fbb3b8669d642ac8fce"
+    },
+    {
+      "path": "config/create-common.toml",
+      "hash": "71b5b92280e869626c4b7bfb3024d7bcdfc44c97"
+    },
+    {
+      "path": "config/create-client.toml",
+      "hash": "6216a90ed0dafef3929e85cfd5d00cd3747ba2af"
+    },
+    {
+      "path": "config/createaddition-common.toml",
+      "hash": "d04d38326509d0328b64407ad894e19bb6324dc1"
+    },
+    {
+      "path": "config/farmersdelight.json",
+      "hash": "8f0eefb9a89bae8fa748b945141a97fba77cd9d6"
+    },
+    {
+      "path": "config/ftbbackups2.json",
+      "hash": "0a5ed77b1af687fef45afee4dbf21ea1b339e38c"
+    },
+    {
+      "path": "config/supplementaries-common.json",
+      "hash": "2aea1a042b1ac811da90539f013986416728bbc9"
+    },
+    {
+      "path": "config/supplementaries-client.json",
+      "hash": "57140b1187cac0ac94eef0e556358c5b61a33ee2"
+    },
+    {
+      "path": "config/toms_storage.json",
+      "hash": "3fd8983a25c735ceef884f5587c17b7a96817a6a"
+    },
+    {
+      "path": "config/voicechat/voicechat-server.properties",
+      "hash": "73d114c893075e3dea275b672361c764b5260ebe"
+    },
+    {
+      "path": "config/voicechat/translations.properties",
+      "hash": "ccd3de3bb39c3307cc67e2cc2e4c9f76cd097935"
+    },
+    {
+      "path": "config/voicechat/voicechat-client.properties",
+      "hash": "55037ec5f14419dffb039709e85fb593e8205a6c"
+    },
+    {
+      "path": "config/voicechat/username-cache.json",
+      "hash": "0d5c4f541bbb2ecfa827a38301e78bec76f0ae0b"
+    },
+    {
+      "path": "config/voicechat/voicechat-volumes.properties",
+      "hash": "5c16b226284e1f866f2957ca6a46ae8e2d292dfb"
+    },
+    {
+      "path": "config/entityculling.json",
+      "hash": "67d2eaa083b0e864e71e50599fcf41bc37a5b412"
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "hash": "18fd047653716a690ba293732dce58bc81621253"
+    },
+    {
+      "path": "config/flywheel.json",
+      "hash": "0bacb5959ae82334b64b71a88a178b368c60dae5"
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "hash": "09db7f09d6dfd063ec4c7c534102892d67655d98"
+    },
+    {
+      "path": "config/bettercombat/server.json5",
+      "hash": "0844e1953d3736657badda7cfacf427842012632"
+    },
+    {
+      "path": "config/bettercombat/fallback_compatibility.json",
+      "hash": "6a69813f26d5670376673f138fe789ac7ff797bf"
+    },
+    {
+      "path": "config/bettercombat/client.json5",
+      "hash": "8998e9a74b7938b47191cd7291ddcb083ce88cfe"
+    },
+    {
+      "path": "config/betterend/portals.json",
+      "hash": "155613aade66441f1485e53ef459e1bba158b797"
+    },
+    {
+      "path": "config/betterend/entities.json",
+      "hash": "49f24acceb23fb5cf8e8dbce8f8d9f3318eeaceb"
+    },
+    {
+      "path": "config/betterend/blocks.json",
+      "hash": "f04afe1a430e3f89a14cfd3091262e0d5760784c"
+    },
+    {
+      "path": "config/betterend/biomes.json",
+      "hash": "f212cd138703d1e1f2f1d185ef00dd47cf12e5bb"
+    },
+    {
+      "path": "config/betterend/items.json",
+      "hash": "7d3842d09257e1448881f54d0bd2ad9cce7d9f4b"
+    },
+    {
+      "path": "config/betterend/generator.json",
+      "hash": "ac88ca1da11daacafda6feb26eb122b9cfd5ffb4"
+    },
+    {
+      "path": "config/betterend/recipes.json",
+      "hash": "1a1dd2720e96aa76058606b6534ac4ca4a28117c"
+    },
+    {
+      "path": "config/betterend/enchantments.json",
+      "hash": "1a1874a232f8efabec80a4693ef2027a9f5e3d11"
+    },
+    {
+      "path": "config/betterend/client.json",
+      "hash": "4b7fd8c17ed28d8d285b8870a55f266d7ef3a800"
+    },
+    {
+      "path": "config/cardinal-components-api.properties",
+      "hash": "fa888bcbf7e935bdae5567d26ffad1ac2f93b35c"
+    },
+    {
+      "path": "config/collective.json5",
+      "hash": "840adf33852578f239021004dd2412c8cf6c3f58"
+    },
+    {
+      "path": "config/createoreexcavation-common.toml",
+      "hash": "34bbeb20bd0b3c2fff47b5d8a63d42ece37ee3d5"
+    },
+    {
+      "path": "config/do_a_barrel_roll-server.json",
+      "hash": "6d05aa536378ee40e4d813155dd7cf60d3e3cf36"
+    },
+    {
+      "path": "config/immersive_armors.json",
+      "hash": "b77a53cad3844f94749a9fc458b78ad602f8d501"
+    },
+    {
+      "path": "config/medievalweapons.json5",
+      "hash": "6651b483d93b985e2bd7deba65bd1e0507156617"
+    },
+    {
+      "path": "config/railways-client.toml",
+      "hash": "3f542bc28d06af877a9dc9d20d14b9b088acc0f8"
+    },
+    {
+      "path": "config/railways-common.toml",
+      "hash": "2a5e361c7b14a712c9bc9aa129294feab5ede0d3"
+    },
+    {
+      "path": "config/waystones.toml",
+      "hash": "d828284e8b60df740a72b023df3fb7266edf89bd"
+    },
+    {
+      "path": "config/ae2/client.json",
+      "hash": "7b8e9d328c5032ac3a4d96f0b25b22874e627414"
+    },
+    {
+      "path": "config/ae2/common.json",
+      "hash": "db9421a289e9af02632b8e14c46b976b781ffcfc"
+    },
+    {
+      "path": "config/appleskin.json5",
+      "hash": "4994b8afdf50b6412aa302a70c31a9f04bfb73fa"
+    },
+    {
+      "path": "config/jecharacters.json",
+      "hash": "afd9e21773efaf580226eb5fcbb72344f7c87523"
+    },
+    {
+      "path": "config/rrp.properties",
+      "hash": "880fcc91da0e6ee687e853c129675d3d4fb273d2"
+    },
+    {
+      "path": "config/modmenu.json",
+      "hash": "261d46ad0aed315cc3afdf0728f15ec21192d028"
+    },
+    {
+      "path": "config/noindium.json",
+      "hash": "8b302246d9a1a8f7dc24332a40564329f64a37cc"
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/iris.properties",
+      "hash": "bb5c77a6494b619110415c19abe55868768e2948"
+    },
+    {
+      "path": "config/computercraft-client.toml",
+      "hash": "a7d2f24f27c15bdce4ef7197959eb207a06f0697"
+    },
+    {
+      "path": "config/pvpsettings.txt",
+      "hash": "f7665accd56ed968979f836611d6a6a502e795a4"
+    },
+    {
+      "path": "config/sidebar_buttons.json",
+      "hash": "3268d4e9fbe1ea03a2567ce16863d5f326d90a0f"
+    },
+    {
+      "path": "config/indium-renderer.properties",
+      "hash": "f3ad096f6d5e75716af5fecaef6b9cb2d5ae88fc"
+    },
+    {
+      "path": "config/wwoo/wwoo.json5",
+      "hash": "9155366b1a8c9121ace0457cea5c5e8429cccaac"
+    },
+    {
+      "path": "config/bclib/client.json",
+      "hash": "9d42fcee8c43fbe19e7d0bcebc2e53c6440a8ab1"
+    },
+    {
+      "path": "config/bclib/server.json",
+      "hash": "0bcc751d5223ddb960c01e3dc02af1b9b34d778b"
+    },
+    {
+      "path": "config/bclib/main.json",
+      "hash": "30a5c62d7fef25c5140f00da1724bfe6a641ce10"
+    },
+    {
+      "path": "config/bclib/cache.json",
+      "hash": "87455371bd39e53215d10577852508fcdaad0d23"
+    },
+    {
+      "path": "config/bclib/biomes.json",
+      "hash": "9f70abc6564b180ac9548cc87a1a1639c7424ae2"
+    },
+    {
+      "path": "config/bclib/recipes.json",
+      "hash": "67810c1d7601495e42c579bad02b5371e16a3a9b"
+    },
+    {
+      "path": "config/bclib/generator.json",
+      "hash": "f12c5c3b52983d0a2e75510e6f2003e09997b17d"
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "hash": "d7f78b145773baf483733330fe24c75824a848ab"
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "hash": "deff4edb19c6e15cc79c24d043e7cadc21adbfe7"
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "hash": "c973cab829ccdc4dd2d0f56ebd27b10e33678ad4"
+    },
+    {
+      "path": "config/jei/blacklist.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "dd60b4f46fe4de340db9285afcf0e6718df0f9fc"
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "bf41efd049a47218c26d28b6c88222a0bab76ac7"
+    },
+    {
+      "path": "config/jei/world/server/______fa6e462d/bookmarks.ini",
+      "hash": "3708af5a3365066ad731c3fcdf22013b010a0e37"
+    },
+    {
+      "path": "config/jei/world/local/bookmarks.ini",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "59a9ca70fa8c263c4faf35e2506ee24dcb845eb4"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "a2d1f22ee9a3aa27f3d25bb93c4c5d5cd5580e21"
+    },
+    {
+      "path": "config/immersive_paintings.json",
+      "hash": "a227de4af0092be23e7aee53ea90cdce818d9d7e"
+    },
+    {
+      "path": "config/journeymap-server.json",
+      "hash": "e6611b08e4b0b551ccdf12b90e0a7d6772cbac14"
+    },
+    {
+      "path": "config/inventoryprofilesnext/inventoryprofiles.json",
+      "hash": "5a525f406a7ac97042f75163482729ce27a0313f"
+    },
+    {
+      "path": "config/inventoryprofilesnext/101.34.252.85/lockSlots.txt",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+      "hash": "2bedb4d58a778b937dd9da01c50a46af9887709b"
+    },
+    {
+      "path": "config/waila/extra/energy_blacklist.json",
+      "hash": "5dbf252b44802a2af8a36ef9ffd5051ddf7e8ce8"
+    },
+    {
+      "path": "config/waila/extra/fluid_blacklist.json",
+      "hash": "b7559898d00e8d34ceab8ea95ac43ae4218ca275"
+    },
+    {
+      "path": "config/waila/extra/progress_blacklist.json",
+      "hash": "8df345fde105a439e69fb8a25f050b009111fefe"
+    },
+    {
+      "path": "config/waila/extra/item_blacklist.json",
+      "hash": "6c1996c8dce61b287ea86964bd0468d575cd45d6"
+    },
+    {
+      "path": "config/waila/blacklist.json",
+      "hash": "1ae6fdb518fb6094339d816fae9e769868cddec3"
+    },
+    {
+      "path": "config/waila/waila_plugins.json",
+      "hash": "d2de1aa6803ad17e24500f46d2abf0ff970cdd0c"
+    },
+    {
+      "path": "config/waila/waila.json",
+      "hash": "f5e2062bbd7ca7402d74f52f87011632ca6f9a53"
+    },
+    {
+      "path": "config/waila/megane_modules.json",
+      "hash": "0805d3b97df6aaa0c1de284fb514e5d30cfb03af"
+    },
+    {
+      "path": "config/do_a_barrel_roll-client.json",
+      "hash": "ea3b32afd6ee143eb15d67d9f73e21e98c91e02b"
+    },
+    {
+      "path": "config/collective/checked.txt",
+      "hash": "21628423bee974b2f51eb8bc581e4b840754ec36"
+    },
+    {
+      "path": "config/gravestones.json",
+      "hash": "53bf41cc42a2b02612f88a2464edef95c38d0612"
+    },
+    {
+      "path": "config/fabricaeexnihilo.json",
+      "hash": "a8193759b8fa77b9916a8a7640b583e0d48913d6"
+    },
+    {
+      "path": "config/extshape.json",
+      "hash": "fa1a6d98d2f844106ad103b2ba365731d8e58aed"
+    },
+    {
+      "path": "config/harvestwithease-common.toml",
+      "hash": "4190225a57885f23e369000bdb54a6e1fabf29a0"
+    },
+    {
+      "path": "config/midnightlib.json",
+      "hash": "d280a7026524ae95864bae0638691f87c626c7b3"
+    },
+    {
+      "path": "config/midnightcontrols.json",
+      "hash": "0a3079149181939fa8141179f8e988d2e862ec6e"
+    },
+    {
+      "path": "config/gamecontrollerdatabase.txt",
+      "hash": "efc5a6e1e99d6f8b0a51d6a35288d198967c3c51"
+    },
+    {
+      "path": "config/fancymenu/config.txt",
+      "hash": "aacedfc1a0dd9a598a8f43fc727f41f462c32d32"
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "hash": "3eeef87ee5e7b978339ad53e5e97deecc694b849"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "hash": "97c76f9e4585744d4f45401fe15959311404233c"
+    },
+    {
+      "path": "config/fancymenu/locals/en_us.local",
+      "hash": "ea7f22c6fa54909605b1d8cb4b45a1e0d8ca6a44"
+    },
+    {
+      "path": "config/fancymenu/locals/de_de.local",
+      "hash": "98b50323485e91e3cc989364873878e42386c372"
+    },
+    {
+      "path": "config/fancymenu/locals/pl_pl.local",
+      "hash": "6b065a9ef9287ac5c88775c78f247f607764ad12"
+    },
+    {
+      "path": "config/fancymenu/locals/pt_br.local",
+      "hash": "ab64076d828f5700d3b7e5a5a312b76eaa3e1b16"
+    },
+    {
+      "path": "config/fancymenu/locals/zh_cn.local",
+      "hash": "8e166ec05744eb904901dbedcd5b9374c1ba8f97"
+    },
+    {
+      "path": "config/fancymenu/locals/uk_ua.local",
+      "hash": "58a9404fd84d78331701a6e81c34382bae55a7dd"
+    },
+    {
+      "path": "config/fancymenu/locals/ru_ru.local",
+      "hash": "097bf0d21a71879b3a87508324bb11051c52ba1b"
+    },
+    {
+      "path": "config/fancymenu/menu_identifiers.db",
+      "hash": "c4ffbfdf7e6bc0e711bd5ee8b59751d9b3c218b6"
+    },
+    {
+      "path": "config/upd8r.json5",
+      "hash": "3ce377d097aa09ee1acc26223020b17924342d32"
+    },
+    {
+      "path": "config/chat_heads.json5",
+      "hash": "26cef99cc13abad6d43bba9fe3df92279e05fca7"
+    },
+    {
+      "path": "config/fpsdisplay.json",
+      "hash": "017551e8f00519026fcc62233fda0e3d7c514a9d"
+    },
+    {
+      "path": "config/sodium-options.json",
+      "hash": "93ca40d20769fef06a59a289f0d90d7377ce44cc"
+    },
+    {
+      "path": "config/konkrete/locals/en_us.local",
+      "hash": "42badc338e767559db38a67bd3e8020a92000e56"
+    },
+    {
+      "path": "config/konkrete/locals/de_de.local",
+      "hash": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5"
+    },
+    {
+      "path": "config/konkrete/locals/pl_pl.local",
+      "hash": "adf2ded54b4952ca83af26a1217e2c5db8ac1429"
+    },
+    {
+      "path": "config/konkrete/locals/pt_br.local",
+      "hash": "9c324fb4d33106366e6cbb5400c8c34f11539d34"
+    },
+    {
+      "path": "config/xaerominimap_entities.json",
+      "hash": "d9f90df0d24798b443475d7593f53ec582e170e3"
+    },
+    {
+      "path": "defaultconfigs/ftbultimine/ftbultimine-client.snbt",
+      "hash": "a941713d1967797f43a95bc314d39fd2c7eabc86"
+    },
+    {
+      "path": "defaultconfigs/ftbultimine/ftbultimine-server.snbt",
+      "hash": "e2e3b660cc3d64a78049ddbc62e0ea6d0dcda4c6"
+    },
+    {
+      "path": "shaderpacks/SEUS PTGI E12.zip",
+      "hash": "2e6f2870796a06cad493ea44354f10f65117392c"
+    },
+    {
+      "path": "shaderpacks/Sildur\u0027s+Vibrant+Shaders+v1.51+Extreme-VL.zip",
+      "hash": "871e4a5b6aa77f8d6693b63c070f81b8bba62b01"
+    },
+    {
+      "path": "shaderpacks/SEUS PTGI E12.zip.txt",
+      "hash": "0637d5e92ab3a8a73bf42501d96edc36c707b046"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "69d7e9acc19757e2716f34914a66e233aa922c62"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.19.2"
+    },
+    {
+      "id": "fabric",
+      "version": "0.14.22"
+    }
+  ]
+}
