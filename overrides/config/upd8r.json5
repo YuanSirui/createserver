@@ -21,12 +21,10 @@
 		   Format: "en_us": "www.awa.com"
 		   Note: This can be overridden by '
 		*/
-		"updateURL": { },
-		/* 
-		   How much time to connect to the URL before the connection closes with a timeout error.
-		   A timeout of zero is interpreted as an infinite timeout.
-		   # This does not block the main thread.
-		*/
+		"updateURL": { 
+            "zh_cn": "https://gitee.com/yuan-sirui/createversioncheck/blob/master/"
+        },
+        
 		"versionCheckerConnectTimeout": 5000,
 		/* 
 		   How much time to read before the connection closes with a timeout error.
