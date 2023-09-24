@@ -3,7 +3,7 @@
   "author": "yuan",
   "version": "1.2.2",
   "description": "",
-  "fileApi": "https://gitee.com/yuan-sirui/createversioncheck/raw/master",
+  "fileApi": "github.com/YuanSirui/createserver/raw/master",
   "files": [
     {
       "path": "mods/[旅行地图] journeymap-1.19.2-5.9.7-fabric.jar",
