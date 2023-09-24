@@ -1,0 +1,12 @@
+{
+// 版本名，此处为“最新版本”
+    "versionName" : "1.2.2",
+    // 版本编号，此处为“最新版本编号”
+    "versionCode" : 22,
+    // 版本格式，给玩家看的
+    "versionFormat" : "%versionName% or %versionCode%",
+    // 更新链接，优先级高于本地
+    "updateURL" : {
+        "en_us" : "https://gitee.com/yuan-sirui/createversioncheck/blob/master/ver.json"
+    }
+}
