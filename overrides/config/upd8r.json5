@@ -22,7 +22,7 @@
 		   Note: This can be overridden by '
 		*/
 		"updateURL": { 
-            "zh_cn": "https://gitee.com/yuan-sirui/createversioncheck/blob/master/"
+            "zh_cn": "https://github.com/YuanSirui/createserver/blob/master/"
         },
         
 		"versionCheckerConnectTimeout": 5000,
