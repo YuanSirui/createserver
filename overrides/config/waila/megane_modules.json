@@ -1,0 +1,13 @@
+{
+  "modules": {
+    "megane-create": {
+      "lol.bai.megane.module.create.MeganeCreate": true
+    },
+    "megane-applied-energistics-2": {
+      "lol.bai.megane.module.ae2.MeganeAppliedEnergistics2": true
+    },
+    "megane-vanilla": {
+      "lol.bai.megane.module.vanilla.MeganeVanilla": true
+    }
+  }
+}
